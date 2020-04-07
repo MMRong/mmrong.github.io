@@ -83,3 +83,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+vendors:
+  adsense:
+    client: "ca-pub-8003324946502414"
+
+    
